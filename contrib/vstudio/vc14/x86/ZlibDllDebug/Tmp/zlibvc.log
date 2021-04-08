@@ -1,0 +1,33 @@
+﻿  Microsoft (R) Macro Assembler Version 14.16.27045.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: match686.asm
+  Microsoft (R) Macro Assembler Version 14.16.27045.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: inffas32.asm
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  Assembler code may have bugs -- use at your own risk
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  Assembler code may have bugs -- use at your own risk
+  inflate.c
+  inftrees.c
+  ioapi.c
+  iowin32.c
+g:\nddev\rtcplayer\depends_cicadplayer\cyx_libcurl\my\zlib-1.2.11\contrib\minizip\iowin32.c(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  trees.c
+  uncompr.c
+  unzip.c
+  zip.c
+  zutil.c
+  正在生成代码...
+    正在创建库 x86\ZlibDllDebug\zlibwapi.lib 和对象 x86\ZlibDllDebug\zlibwapi.exp
+  zlibvc.vcxproj -> G:\NDDEV\RTCPLAYER\depends_cicadplayer\cyx_libcurl\my\zlib-1.2.11\contrib\vstudio\vc14\x86\ZlibDllDebug\zlibwapi.dll
